@@ -1,4 +1,4 @@
-## Qwiklab: Get Familiar with DNS and DHCP
+## Qwiklabs: Get Familiar with DNS and DHCP
 
 ---
 
